@@ -9,3 +9,7 @@ def print_two():
 
 def print_three():
     print("3")
+
+
+def print_four():
+    print("4")
